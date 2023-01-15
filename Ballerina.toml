@@ -1,0 +1,9 @@
+[build-options]
+  observabilityIncluded = true
+
+[package]
+  distribution = "2201.2.3"
+  name = "asgardeo_logins_webhook_p_repo"
+  org = "tdorg"
+  version = "0.1.0"
+
